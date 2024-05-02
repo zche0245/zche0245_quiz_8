@@ -4,7 +4,7 @@ Ziqian Chen zche0245_9103_Quiz8
 The imaging techniques are inspired by Impressionism and Neo-Impressionism. They present real-life scenes in the form of blended patches of colour on the artwork. It's a very creative way of processing images. Pointillism, where the painting is composed of patches or blocks of similar colours, was a common technique they used.
 This imaging technique can be applied to our Major projects to reconstruct existing artwork and create something more by changing the parameters.
 
-*Woman with a Parasol* painted by *Claude Monet*
+***Woman with a Parasol*** painted by *Claude Monet*
 ![pic1](readmeImages/pic1.jpg)
 ![pic1Detail](readmeImages/pic1Detail.png)
 
