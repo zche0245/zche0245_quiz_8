@@ -1,8 +1,8 @@
 # Quiz8
 Ziqian Chen zche0245_9103_Quiz8
 ## **Part 1**
-    The imaging techniques are inspired by Impressionism and Neo-Impressionism. They present real-life scenes in the form of blended patches of colour on the artwork. It's a very creative way of processing images. Pointillism, where the painting is composed of patches or blocks of similar colours, was a common technique they used.
-    This imaging technique can be applied to our Major projects to reconstruct existing artwork and create something more by changing the parameters.
+The imaging techniques are inspired by Impressionism and Neo-Impressionism. They present real-life scenes in the form of blended patches of colour on the artwork. It's a very creative way of processing images. Pointillism, where the painting is composed of patches or blocks of similar colours, was a common technique they used.
+This imaging technique can be applied to our Major projects to reconstruct existing artwork and create something more by changing the parameters.
 
 ***Woman with a Parasol*** painted by ***Claude Monet***
 ![pic1](readmeImages/pic1.jpg)
@@ -14,7 +14,7 @@ Ziqian Chen zche0245_9103_Quiz8
 
 
 ## **Part 2**
-    I have discovered a technique called Pixel painter in the happycoding.io website. It creates spots by randomly selecting pixel points from the original image and repeating them to create a pointillism-like artwork.
+I have discovered a technique called Pixel painter in the happycoding.io website. It creates spots by randomly selecting pixel points from the original image and repeating them to create a pointillism-like artwork.
 ```
 let img;
 
