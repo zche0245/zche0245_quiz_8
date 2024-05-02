@@ -47,6 +47,5 @@ function draw() {
 Based on this technique, we can modify the style and conditions of the generated patterns. This makes the texture of the artwork more complex and interesting.
 
 Other examples from ***happycoding.io***
-
-Post link: https://happycoding.io/tutorials/p5js/images/pixel-painter
+Inspiration link: https://happycoding.io/tutorials/p5js/images/pixel-painter
 ![Other examples](readmeImages/examples.png)
